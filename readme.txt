@@ -5,3 +5,4 @@ Git tracks changes.
 xyt i love you.
 haha ,you are worry of me.
 i do really miss you
+add merge
